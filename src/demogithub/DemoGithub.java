@@ -105,6 +105,7 @@ public class DemoGithub extends javax.swing.JFrame {
 
         int nb = 17;
         JOptionPane.showMessageDialog(this,"La valeur de nb =  "+nb);
+        int i = 0;
         
 
         // TODO add your handling code here:
